@@ -1,0 +1,12 @@
+{
+  "name": "monokai-light-blue",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": false,
+  "description": "A light blue monokai theme",
+  "repository": "https://github.com/elliottpost/monokai-light-blue",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  }
+}

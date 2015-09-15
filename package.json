@@ -1,7 +1,7 @@
 {
   "name": "monokai-light-blue",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": false,
   "description": "A light blue monokai theme",
   "repository": "https://github.com/elliottpost/monokai-light-blue",

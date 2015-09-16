@@ -6,7 +6,7 @@
   "description": "A light blue monokai theme",
   "repository": {
     "type": "git",
-    "url": "git@elliottpost:elliottpost/monokai-light-blue.git"
+    "url": "git@elliottpost-github:elliottpost/monokai-light-blue.git"
   },
   "license": "MIT",
   "engines": {

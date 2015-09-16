@@ -4,7 +4,10 @@
   "version": "0.3.6",
   "private": true,
   "description": "A light blue monokai theme",
-  "repository": "https://github.com/elliottpost/monokai-light-blue",
+  "repository": {
+    "type": "git",
+    "url": "git@elliottpost:elliottpost/monokai-light-blue.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.39.0"
